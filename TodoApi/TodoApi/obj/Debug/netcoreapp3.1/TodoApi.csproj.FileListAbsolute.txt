@@ -153,4 +153,5 @@ C:\Users\luanc\Documents\.net\todoApi\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Sw
 C:\Users\luanc\Documents\.net\todoApi\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\luanc\Documents\.net\todoApi\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\luanc\Documents\.net\todoApi\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luanc\Documents\.net\todoApi\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.xml
 C:\Users\luanc\Documents\.net\todoApi\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csprojAssemblyReference.cache
